@@ -1,0 +1,19 @@
+{
+  "name": "http2-node-express",
+  "version": "1.0.0",
+  "description": "HTTP/2 Implemntation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ishtiaqbhatti/http2-node-express.git"
+  },
+  "author": "Ishtiaq Bhatti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ishtiaqbhatti/http2-node-express/issues"
+  },
+  "homepage": "https://github.com/ishtiaqbhatti/http2-node-express#readme"
+}
